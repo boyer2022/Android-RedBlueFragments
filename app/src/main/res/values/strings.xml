@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RedBlueFragment_MenuSwapFragment.app</string>
+    <string name="hello_red_fragment">Hello Red Fragment</string>
+    <string name="hello_blue_fragment">Hello Blue Fragment</string>
+    <string name="hello_green_fragment">Hello Green Fragment</string>
+    <string name="hello_orange_fragment">Hello Orange Fragment</string>
+    <string name="hello_purple_fragment">Hello Purple Fragment</string>
+
+
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="orange">ORANGE</string>
+    <string name="purple">PURPLE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
